@@ -9,3 +9,6 @@
 
 <a>Przedstawiam Raport z Sesji numer 2</a>
 <a href="https://docs.google.com/document/d/1Wq9B4xml0XkxFtSc8EjLcHRNXB5dnoiW/edit?usp=sharing&ouid=109036235607774440541&rtpof=true&sd=true"> Raport Sesja 2</a>
+
+<a>Przedstawiam Raport z Sesji numer 3</a>
+<a href="https://docs.google.com/document/d/1Sx_e6nED79HU7iVPVTMHAWVRemyPF6g6/edit?usp=sharing&ouid=109036235607774440541&rtpof=true&sd=true"> Raport Sesja 3</a>
